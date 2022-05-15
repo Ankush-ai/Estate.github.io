@@ -1,0 +1,46 @@
+.carousel-section img{
+    height: 350px;
+
+}
+.all-listings{
+    height: 11em;
+}
+
+.btn-btn-info{
+    outline: none;
+    border:1px soid white;
+    border-radius: 2px;
+    background-color: aquamarine;
+    color: black;
+    box-sizing: border-box;
+    
+}
+
+.btn-btn-info:hover{
+    cursor: pointer;
+
+}
+
+.contact-form{
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form{
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.footer-section{
+    height: 10rem;
+    margin-top: 10px;
+}
+
+@media (max-width:768px){
+    .contact-form{
+        width: 99vw;;
+    }
+}
